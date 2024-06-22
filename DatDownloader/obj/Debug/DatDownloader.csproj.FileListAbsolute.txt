@@ -1,0 +1,10 @@
+D:\Desktop\SimpleDownloadManager\DatDownloader\bin\Debug\DatDownloader.exe
+D:\Desktop\SimpleDownloadManager\DatDownloader\bin\Debug\DatDownloader.pdb
+D:\Desktop\SimpleDownloadManager\DatDownloader\obj\Debug\DatDownloader.csproj.AssemblyReference.cache
+D:\Desktop\SimpleDownloadManager\DatDownloader\obj\Debug\DatDownloader.csproj.CoreCompileInputs.cache
+D:\Desktop\SimpleDownloadManager\DatDownloader\obj\Debug\DatDownloader.exe
+D:\Desktop\SimpleDownloadManager\DatDownloader\obj\Debug\DatDownloader.pdb
+D:\Desktop\SimpleDownloadManager\DatDownloader\bin\Debug\QUEUEDAT.dll
+D:\Desktop\SimpleDownloadManager\DatDownloader\bin\Debug\QUEUEDAT.pdb
+D:\Desktop\SimpleDownloadManager\DatDownloader\obj\Debug\DatDownloader.csproj.CopyComplete
+D:\Desktop\SimpleDownloadManager\DatDownloader\bin\Debug\DatDownloader.exe.config

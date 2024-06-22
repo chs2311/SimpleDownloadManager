@@ -1,0 +1,12 @@
+D:\Desktop\SimpleDownloadManager\Queue.dat File Creator\bin\Debug\QUEUEDAT.dll
+D:\Desktop\SimpleDownloadManager\Queue.dat File Creator\bin\Debug\QUEUEDAT.pdb
+D:\Desktop\SimpleDownloadManager\Queue.dat File Creator\obj\Debug\Queue.dat File Creator.csproj.AssemblyReference.cache
+D:\Desktop\SimpleDownloadManager\Queue.dat File Creator\obj\Debug\Queue.dat File Creator.csproj.CoreCompileInputs.cache
+D:\Desktop\SimpleDownloadManager\Queue.dat File Creator\obj\Debug\QUEUEDAT.dll
+D:\Desktop\SimpleDownloadManager\Queue.dat File Creator\obj\Debug\QUEUEDAT.pdb
+E:\Dev\SimpleDownloadManager\Queue.dat File Creator\bin\Debug\QUEUEDAT.dll
+E:\Dev\SimpleDownloadManager\Queue.dat File Creator\bin\Debug\QUEUEDAT.pdb
+E:\Dev\SimpleDownloadManager\Queue.dat File Creator\obj\Debug\Queue.dat File Creator.csproj.AssemblyReference.cache
+E:\Dev\SimpleDownloadManager\Queue.dat File Creator\obj\Debug\Queue.dat File Creator.csproj.CoreCompileInputs.cache
+E:\Dev\SimpleDownloadManager\Queue.dat File Creator\obj\Debug\QUEUEDAT.dll
+E:\Dev\SimpleDownloadManager\Queue.dat File Creator\obj\Debug\QUEUEDAT.pdb

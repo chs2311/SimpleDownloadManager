@@ -1,0 +1,17 @@
+D:\Desktop\SimpleDownloadManager\QuickSDM\bin\Debug\QuickSDM.exe.config
+D:\Desktop\SimpleDownloadManager\QuickSDM\bin\Debug\QuickSDM.exe
+D:\Desktop\SimpleDownloadManager\QuickSDM\bin\Debug\QuickSDM.pdb
+D:\Desktop\SimpleDownloadManager\QuickSDM\obj\Debug\QuickSDM.csproj.AssemblyReference.cache
+D:\Desktop\SimpleDownloadManager\QuickSDM\obj\Debug\QuickSDM.Form1.resources
+D:\Desktop\SimpleDownloadManager\QuickSDM\obj\Debug\QuickSDM.Properties.Resources.resources
+D:\Desktop\SimpleDownloadManager\QuickSDM\obj\Debug\QuickSDM.csproj.GenerateResource.cache
+D:\Desktop\SimpleDownloadManager\QuickSDM\obj\Debug\QuickSDM.csproj.CoreCompileInputs.cache
+D:\Desktop\SimpleDownloadManager\QuickSDM\obj\Debug\QuickSDM.exe
+D:\Desktop\SimpleDownloadManager\QuickSDM\obj\Debug\QuickSDM.pdb
+D:\Desktop\SimpleDownloadManager\QuickSDM\obj\Debug\QuickSDM.PendingItem.resources
+D:\Desktop\SimpleDownloadManager\QuickSDM\bin\Debug\EXPORT_ICO.dll
+D:\Desktop\SimpleDownloadManager\QuickSDM\bin\Debug\EXPORT_ICO.pdb
+D:\Desktop\SimpleDownloadManager\QuickSDM\bin\Debug\QUEUEDAT.dll
+D:\Desktop\SimpleDownloadManager\QuickSDM\bin\Debug\QUEUEDAT.pdb
+D:\Desktop\SimpleDownloadManager\QuickSDM\obj\Debug\QuickSDM.InternalResx.resources
+D:\Desktop\SimpleDownloadManager\QuickSDM\obj\Debug\QuickSDM.csproj.Up2Date
