@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDownloadManager", "SimpleDownloadManager\SimpleDownloadManager.csproj", "{19E1B957-9E8A-4286-BF84-452E3629FCCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDM-GUI", "SDM-GUI\SDM-GUI.csproj", "{AE7C9DB7-2A83-4268-9851-47AEA00B9255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatDownloader", "DatDownloader\DatDownloader.csproj", "{75CF5007-11FF-4928-ACC9-CC4F86F9BD70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue.dat File Creator", "Queue.dat File Creator\Queue.dat File Creator.csproj", "{51CA78D7-2C21-446A-B184-89FFB85B5E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSDM", "QuickSDM\QuickSDM.csproj", "{F7C8AC8C-43A6-4D3F-A048-640E5E7F0A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportModule Extensions", "ExportModule Extensions\ExportModule Extensions.csproj", "{8076526D-CD71-4118-A68F-0B172E5ACF00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E1B957-9E8A-4286-BF84-452E3629FCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E1B957-9E8A-4286-BF84-452E3629FCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E1B957-9E8A-4286-BF84-452E3629FCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E1B957-9E8A-4286-BF84-452E3629FCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7C9DB7-2A83-4268-9851-47AEA00B9255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7C9DB7-2A83-4268-9851-47AEA00B9255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7C9DB7-2A83-4268-9851-47AEA00B9255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7C9DB7-2A83-4268-9851-47AEA00B9255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CF5007-11FF-4928-ACC9-CC4F86F9BD70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CF5007-11FF-4928-ACC9-CC4F86F9BD70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CF5007-11FF-4928-ACC9-CC4F86F9BD70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CF5007-11FF-4928-ACC9-CC4F86F9BD70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51CA78D7-2C21-446A-B184-89FFB85B5E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CA78D7-2C21-446A-B184-89FFB85B5E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CA78D7-2C21-446A-B184-89FFB85B5E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CA78D7-2C21-446A-B184-89FFB85B5E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C8AC8C-43A6-4D3F-A048-640E5E7F0A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C8AC8C-43A6-4D3F-A048-640E5E7F0A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C8AC8C-43A6-4D3F-A048-640E5E7F0A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C8AC8C-43A6-4D3F-A048-640E5E7F0A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8076526D-CD71-4118-A68F-0B172E5ACF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8076526D-CD71-4118-A68F-0B172E5ACF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8076526D-CD71-4118-A68F-0B172E5ACF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8076526D-CD71-4118-A68F-0B172E5ACF00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9644DF44-E44E-4514-9A7E-CC61F4E7249A}
+	EndGlobalSection
+EndGlobal
